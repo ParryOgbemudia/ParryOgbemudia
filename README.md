@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Parry 👋
 
-<!--
-**ParryOgbemudia/ParryOgbemudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer building real production features — not just following tutorials and calling it a day.
 
-Here are some ideas to get you started:
+- 🔭 Currently the sole frontend developer at **Kodee Technology**, where I've shipped real-time chat, automated billing (Paystack), and a custom carousel component
+- 🐟 Solo-built **[Pizibue](https://pizibue.com)** — a full-stack platform for a fish farm business, React + Supabase
+- 🎨 Currently learning **UI/UX design in Figma** so I can design my own products, not just build from someone else's
+- 💼 Open to frontend/full-stack opportunities — always happy to talk
+- 📫 Reach me at parryogbemudia@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Supabase` `Git & GitHub` `Postman`
+
+#### Links
+💼 [LinkedIn](https://www.linkedin.com/in/parryogbemudia/)
+
+---
+📍 Abuja, Nigeria
